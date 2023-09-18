@@ -8,5 +8,5 @@ https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ
 - 🌱 I’m currently learning python, physics and biology
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me ...
-    --- Discord: unityduck
-    --- Telegram: @UnityDuck
+    - Discord: unityduck - 
+    - Telegram: @UnityDuck - 
